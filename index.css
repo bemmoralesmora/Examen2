@@ -1,0 +1,9 @@
+.body{
+    max-width: 375px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 5rem auto 5rem ;
+    padding: 10px;
+    gap: 10px;
+}
